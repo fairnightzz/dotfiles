@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/u7/z2252zha/cs246/s21/a5/codeForStudents/q1'
+let g:netrw_dirhist_9='/u7/z2252zha/cs246/s21/a4/codeForStudents/q3'
+let g:netrw_dirhist_8='/u7/z2252zha/cs246/s21/a4/codeForStudents'
+let g:netrw_dirhist_7='/u7/z2252zha/cs246/s21/a4/codeForStudents/q2'
+let g:netrw_dirhist_6='/u7/z2252zha/cs246/s21/a4/codeForStudents/q1'
+let g:netrw_dirhist_5='/u7/z2252zha/cs246/s21/a4/codeForStudents/q2'
+let g:netrw_dirhist_4='/u7/z2252zha/cs246/s21/a4/codeForStudents/q3'
+let g:netrw_dirhist_3='/u7/z2252zha/cs246/s21/a4/codeForStudents/q2'
+let g:netrw_dirhist_2='/u7/z2252zha/cs246/s21/a4/codeForStudents/q3'
+let g:netrw_dirhist_1='/u7/z2252zha/cs246/s21/a4/codeForStudents/q2'
